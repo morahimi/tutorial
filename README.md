@@ -1,2 +1,2 @@
 # tutorial
-feature1
+feature2
